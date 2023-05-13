@@ -166,7 +166,7 @@ ul {
 }
 
 .slide-1 .right-side::before {
-  content: url("/assets/slide-1/separation.svg");
+  content: url("assets/slide-1/separation.svg");
   position: absolute;
   top: 0;
   left: -268px;
@@ -187,7 +187,7 @@ ul {
 .slide-1 .right-side .products {
   width: 337px;
   height: 307px;
-  background-image: url("/assets/slide-1/product-container.svg");
+  background-image: url("assets/slide-1/product-container.svg");
   position: absolute;
   right: 120px;
   bottom: 120px;
